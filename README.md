@@ -1,9 +1,10 @@
-🕸️ Web Scraping Projects
+🕸️ Web Scraping Projects:
 
 This repository contains a collection of web scraping projects showcasing data extraction techniques using Python, BeautifulSoup, and Selenium.
 Each project demonstrates scraping data from different websites, cleaning and structuring the results into readable formats such as CSV, Excel, or pandas DataFrames.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📂 Overview
+📂 Overview:
 
 In this repository, you’ll find multiple scripts that:
 
@@ -14,8 +15,9 @@ Collect data from tables, e-commerce websites, and public data sources
 Use Selenium for dynamic pages and BeautifulSoup for static pages
 
 Save scraped data for further analysis or automation tasks
+-----------------------------------------------------------------------------------------
 
-🧰 Technologies Used
+🧰 Technologies Used:
 
 Python 3
 
@@ -28,9 +30,9 @@ Requests
 Pandas
 
 CSV / Excel output
+-----------------------------------------------------------------------------------------
 
-⚙️ Features
-
+⚙️ Features:
 ✅ Scraping dynamic and static websites
 ✅ Exporting data into structured formats (CSV, Excel)
 ✅ Handling pagination and errors gracefully
